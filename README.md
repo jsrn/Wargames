@@ -1,4 +1,4 @@
-Wargames
-========
+Wargame Solutions
+================
 
-A repository for my Wargames and CTF solutions
+A repository for my assorted Wargame solutions. Here there be **spoilers**.
