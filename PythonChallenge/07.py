@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/oxygen.html
 # For this challenge, we have an image with a greyscale barcode looking thing
 # across it. The file is 629x95
 
