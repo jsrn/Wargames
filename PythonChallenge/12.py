@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/evil.html
 
 import Image, ImageDraw, sys
 
