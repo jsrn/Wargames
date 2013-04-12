@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/5808.html
 
 import Image, ImageDraw, sys
 
