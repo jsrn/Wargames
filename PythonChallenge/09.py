@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/good.html:huge:file
 
 import Image, ImageDraw, sys
 
