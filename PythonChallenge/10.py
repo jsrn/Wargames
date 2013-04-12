@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/bull.html
 
 # a = [1, 11, 21, 1211, 111221, 
 # len(a[30]) = ?
