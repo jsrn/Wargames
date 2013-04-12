@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# http://www.pythonchallenge.com/pc/def/channel.html
-# http://www.pythonchallenge.com/pc/def/channel.zip
 
 # channel.jpg is a picture of a zip, and the comments of the challenge page
 # include the comment <!-- <-- zip -->. We can download channel.zip from the
