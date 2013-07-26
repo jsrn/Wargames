@@ -14,6 +14,7 @@
 chains = dict()
 
 longest = 0
+position = 0
 
 for i in range( 1, 1000000 ):
 	n = i
@@ -31,5 +32,9 @@ for i in range( 1, 1000000 ):
 	chains[i] = count - 1
 	if count > longest:
 		longest = count
+		position = i
 
 print longest
+print position
+
+# passed
