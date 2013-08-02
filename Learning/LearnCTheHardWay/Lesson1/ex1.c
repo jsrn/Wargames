@@ -29,6 +29,5 @@ int main( int argc, char *argv[] )
 		writes string s and a trailing newline to stdout
 	*/
 
-
 	return 0;
 }
