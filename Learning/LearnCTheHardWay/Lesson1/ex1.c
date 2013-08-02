@@ -15,5 +15,5 @@ int main( int argc, char *argv[] )
 	puts("world");
 	// 3) Run man 3 puts and read about this function and many others.
 
-    return 0;
+	return 0;
 }
